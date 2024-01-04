@@ -52,7 +52,7 @@ namespace MvcProjeKampi.Controllers
             return View(category);
         }
         [HttpPost]
-        public IActionResult EditCAtegory(Category p)
+        public IActionResult EditCategory(Category p)
         {
             
             cm.CategoryUpdate(p);

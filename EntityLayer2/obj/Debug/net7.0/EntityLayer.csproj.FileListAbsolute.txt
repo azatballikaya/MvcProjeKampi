@@ -22,3 +22,4 @@ C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\EntityLayer2\obj\D
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\EntityLayer2\obj\Debug\net7.0\refint\EntityLayer.dll
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\EntityLayer2\obj\Debug\net7.0\EntityLayer.pdb
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\EntityLayer2\obj\Debug\net7.0\ref\EntityLayer.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\EntityLayer2\obj\Debug\net7.0\EntityLayer.sourcelink.json

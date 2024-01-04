@@ -32,3 +32,4 @@ C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\BusinessLayer2\obj
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\BusinessLayer2\obj\Debug\net7.0\refint\BusinessLayer.dll
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\BusinessLayer2\obj\Debug\net7.0\BusinessLayer.pdb
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\BusinessLayer2\obj\Debug\net7.0\ref\BusinessLayer.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\BusinessLayer2\obj\Debug\net7.0\BusinessLayer.sourcelink.json

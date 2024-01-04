@@ -524,3 +524,4 @@ C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\MvcProjeKampi\obj\
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\MvcProjeKampi\obj\Debug\net7.0\MvcProjeKampi.csproj.CopyComplete
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\MvcProjeKampi\obj\Debug\net7.0\MvcProjeKampi.genruntimeconfig.cache
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\MvcProjeKampi\obj\Debug\net7.0\ref\MvcProjeKampi.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\MvcProjeKampi\MvcProjeKampi\obj\Debug\net7.0\MvcProjeKampi.sourcelink.json

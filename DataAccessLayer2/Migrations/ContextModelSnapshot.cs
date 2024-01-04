@@ -184,6 +184,11 @@ namespace DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WriterId"));
 
+                    b.Property<string>("WriterAbout")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("WriterImage")
                         .IsRequired()
                         .HasMaxLength(100)
@@ -191,8 +196,8 @@ namespace DataAccessLayer.Migrations
 
                     b.Property<string>("WriterMail")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<string>("WriterName")
                         .IsRequired()
@@ -201,8 +206,8 @@ namespace DataAccessLayer.Migrations
 
                     b.Property<string>("WriterPassword")
                         .IsRequired()
-                        .HasMaxLength(30)
-                        .HasColumnType("nvarchar(30)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<string>("WriterSurname")
                         .IsRequired()
