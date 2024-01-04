@@ -1,0 +1,27 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_adminLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Kategori Ad</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Başlıklar</th>
+    </tr>
+    @foreach (var cat in Model)
+    {
+        <tr>
+            <th>@cat.CategoryId</th>
+            <td>@cat.CategoryName</td>
+            <td><a class="btn btn-danger" href="/AdminCategory/DeleteCategory/@cat.CategoryId">Sil</a></td>
+            <td><a class="btn btn-warning" href="/AdminCategory/EditCategory/@cat.CategoryId">Güncelle</a></td>
+            <td><a class="btn btn-primary">Başlıklar</a></td>
+        </tr>
+    }
+</table>
+<a class="btn btn-primary" href="/AdminCategory/CategoryAdd">Yeni Kategori</a>
+
