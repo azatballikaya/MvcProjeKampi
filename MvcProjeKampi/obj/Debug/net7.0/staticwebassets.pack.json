@@ -8553,6 +8553,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\admin.png",
+      "PackagePath": "staticwebassets\\images\\admin.png"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\download.png",
+      "PackagePath": "staticwebassets\\images\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\erkek.png",
+      "PackagePath": "staticwebassets\\images\\erkek.png"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\erkek2.png",
+      "PackagePath": "staticwebassets\\images\\erkek2.png"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\erkek4.jpg",
+      "PackagePath": "staticwebassets\\images\\erkek4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\images\\women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\women2.jpg",
+      "PackagePath": "staticwebassets\\images\\women2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\images\\women3.jpg",
+      "PackagePath": "staticwebassets\\images\\women3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Azat\\Documents\\GitHub\\AspNetCore_Works\\MvcProjeKampi\\MvcProjeKampi\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

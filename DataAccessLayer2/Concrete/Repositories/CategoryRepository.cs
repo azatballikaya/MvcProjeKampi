@@ -45,6 +45,16 @@ namespace DataAccessLayer.Concrete.Repositories
             throw new NotImplementedException();
         }
 
+        public List<Category> List(string class1)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Category> List(string class1, string class2)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Update(Category p)
         {
             c.SaveChanges();

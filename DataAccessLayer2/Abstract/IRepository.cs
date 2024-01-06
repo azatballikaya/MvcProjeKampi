@@ -14,6 +14,8 @@ namespace DataAccessLayer.Abstract
     {
         List<T> List(Expression <Func<T,bool>> filter);
         List<T> List();
+        List<T> List(string class1);
+        List<T> List(string class1,string class2);
         T Get(Expression<Func<T,bool>> filter);
         void Insert(T p);
         void Update(T p);

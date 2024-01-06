@@ -42,6 +42,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Content/ContentByHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFxDb250ZW50QnlIZWFkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Heading/AddHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhZGluZ1xBZGRIZWFkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Heading/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhZGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +96,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Writer/AddWriter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEFkZFdyaXRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Writer/EditWriter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEVkaXRXcml0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Azat/Documents/GitHub/AspNetCore_Works/MvcProjeKampi/MvcProjeKampi/Views/Writer/Index.cshtml]

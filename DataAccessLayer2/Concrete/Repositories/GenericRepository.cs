@@ -46,6 +46,14 @@ namespace DataAccessLayer.Concrete.Repositories
         {
             return _object.ToList();
         }
+        public List<T> List(string class1)
+        {
+            return _object.Include(class1).ToList();
+        }
+        public List<T> List(string class1,string class2)
+        {
+            return _object.Include(class1).Include(class2).ToList();
+        }
 
         public void Update(T p)
         {
